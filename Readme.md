@@ -1,3 +1,3 @@
-# React timer app
+# React boilerplate project
 
-From the complete react developer course.
+A blank project with react, webpack, foundation, sass, and jquery.
